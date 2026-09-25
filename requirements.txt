@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
+faker
+vaderSentiment
+networkx
+scikit-learn
+pandas
+openpyxl
